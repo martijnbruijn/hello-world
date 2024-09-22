@@ -5,6 +5,7 @@
 
 _A link to access this GA will be provided in class on Friday morning. It will work the same way as PA 1.3 (on GitHub)._
 
+**Yeah man, there might be several files to be aware of, but this one is not one of them!!!!**
 There are several files to be aware of, right now, you know:
 
 1. `README.md`: this file, which contains and introduction and instructions.
