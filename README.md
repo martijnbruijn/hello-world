@@ -4,6 +4,7 @@
 *[CEGM1000 MUDE](http://mude.citg.tudelft.nl/): Week 1.3, Friday, Sep 20, 2024.*
 
 _A link to access this GA will be provided in class on Friday morning. It will work the same way as PA 1.3 (on GitHub)._
+**Okay, this is a slight change**
 
 **Yeah man, there might be several files to be aware of, but this one is not one of them!!!!**
 There are several files to be aware of, right now, you know:
