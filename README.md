@@ -5,7 +5,7 @@
 
 _A link to access this GA will be provided in class on Friday morning. It will work the same way as PA 1.3 (on GitHub)._
 
-There are several files to be aware of, right now:
+There are several files to be aware of, right now, you know:
 
 1. `README.md`: this file, which contains and introduction and instructions.
 2. `Analysis.ipynb`: a Jupyter notebook which contains the primary analysis to complete during the in-class session.
